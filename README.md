@@ -1,1 +1,2 @@
-# hlll_pypro_hw_17-18
+# Hillel: Python PRO: HW_17-18
+Practical work
